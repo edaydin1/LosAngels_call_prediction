@@ -33,14 +33,12 @@ MyLA311_Service_Request_Data_2024_20250212.csv: Ham veri seti (dahil edilmediyse
 Gerekli kütüphaneleri yükleyin:
 
 bash
-Kopyala
-Düzenle
+
 pip install pandas numpy matplotlib seaborn
 Notebook dosyasını çalıştırın:
 
 bash
-Kopyala
-Düzenle
+
 jupyter notebook i_new copy2.ipynb
 Adım adım hücreleri çalıştırarak veri temizleme sürecini takip edebilirsiniz.
 
